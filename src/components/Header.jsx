@@ -4,7 +4,7 @@ function Header() {
 
     return(
         <header>
-            <h1>Keeper</h1>
+            <h1>Stickwick</h1>
         </header>
         
     );
